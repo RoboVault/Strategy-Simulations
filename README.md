@@ -17,8 +17,12 @@ Or each tab can be run individually by using SHIFT + TAB
 Note additional packages may be required to be installed within python if not already installed, they can be installed via 
 
 pip install matplotlib
+
 pip install numpy 
+
 pip install ccxt
+
 pip install scipy 
+
 
 Additionally paramaters can be set for the simulation in the 4th Tab 
